@@ -3,3 +3,6 @@ Linux --> Ubuntu Install in Local box and using Sudo --> instailled VIM editor p
 Using vim editor created file and saved and edited. ii --> insert mode 
 Bash script --> #!/src/bash is starting line and # is comment 
 cd, ll, ls, cd, rmdir, mkdir and cat commands learned.
+
+This line to list tomorrow (Day 2)
+Git and Azure pipe line (CI/CD)
