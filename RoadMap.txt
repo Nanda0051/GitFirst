@@ -2,4 +2,4 @@ Day Progress 1 :
 Linux --> Ubuntu Install in Local box and using Sudo --> instailled VIM editor package.
 Using vim editor created file and saved and edited. ii --> insert mode 
 Bash script --> #!/src/bash is starting line and # is comment 
-ll, ls, cd, rmdir, mkdir and cat commands learned.
+cd, ll, ls, cd, rmdir, mkdir and cat commands learned.
